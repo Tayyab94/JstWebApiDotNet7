@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JstWebApiDotNet7.props" />
+</Project>
